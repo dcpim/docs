@@ -1,6 +1,6 @@
 # Documents for DCPIM
 
-This repo contains various manuals and documentation files I produced over the years.
+This repo is an archive of various manuals and documentation files I produced over the years.
 
 
 ## Authors
